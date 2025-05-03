@@ -104,7 +104,7 @@ Replace <server-public-key> and <server-public-ip> with values from your admin.
 
 - Once connected, you can reach internal systems such as:
 
-  - 10.1.1.200:9876 (V Rising server)
+  - <Endpoint IP Address>:9876 (V Rising server)
 
   - Shared services and systems
  
